@@ -1,0 +1,19 @@
+i have learned react  already so i goona start with node js
+
+
+Node.js is an open-source, cross-platform, JavaScript runtime environment that allows you to execute JavaScript code outside of a web browser.
+
+Open-source: The source code is public and can be viewed, modified, and contributed to by anyone.
+
+Cross-platform: It can run on various operating systems like Windows, macOS, and Linux.
+
+JavaScript outside the browser: Traditionally, JavaScript was confined to running inside web browsers (like Chrome, Firefox) to manipulate web pages. Node.js provides an environment to run JavaScript on servers or any computer, expanding its use cases significantly.
+
+Built on Chrome's V8 Engine: Node.js is built using the V8 JavaScript engine from Google Chrome. The V8 engine is written in C++ for high performance.
+
+The V8 engine compiles JavaScript code directly into native machine code, making it very fast.
+The formula for Node.js can be thought of as: 
+
+
+
+This means Node.js takes the core of Chrome's JavaScript execution capability and adds server-side features like file system access and networking.
