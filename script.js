@@ -1,8 +1,9 @@
 const express = require('express')
 const app = express()
 const port = 3000
+app.set("view ejs","ejs");
 app.use(function(req, res,next){
-    console.log("middleware");
+    res.render("index");
     
     next()});
 app.get('/', (req, res) => {
