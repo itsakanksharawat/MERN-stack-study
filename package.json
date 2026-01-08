@@ -1,6 +1,25 @@
 {
+  "name": "development",
+  "version": "1.0.0",
+  "description": "from today onwards i share my learning in mernstack \r its just a rough work i am doing in mern stack by learning",
+  "homepage": "https://github.com/itsakanksharawat/MERN-stack-study#readme",
+  "bugs": {
+    "url": "https://github.com/itsakanksharawat/MERN-stack-study/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsakanksharawat/MERN-stack-study.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^5.2.1"
-  }
+  },
+  "devDependencies": {}
 }
