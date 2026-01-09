@@ -1,0 +1,5 @@
+node js arcitexture
+its start from client which request sever (php,nodejs server),
+server gets request(event queue->according to timeline (q1,q2) then event loop always watches the event queue as if its any kind of request(Acc fifo))
+request are taken in two forms 1.blockingg opertions 2.non blocking operation
+blocking operation are sloved by thread operation
