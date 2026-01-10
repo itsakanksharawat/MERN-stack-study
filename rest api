@@ -1,0 +1,20 @@
+rest pull api
+these are practices which should be done so that means our server is working properly
+works on server and client archiecture
+  2. always respect the http methods
+   a, GET user- read the user data 
+   b. POST user - handle new user creation
+   c. PATCH creaion - update the user
+
+express middleware
+Middleware is just a function that sits between the request and the response.
+
+That’s it.
+
+Request comes in → middleware runs → either:
+
+modifies the request/response, or
+
+blocks it, or
+
+passes it forward
