@@ -1,0 +1,7 @@
+http response status code indicates wheather a speecific http code has been requested is completed
+its is divided into five classes
+1.informational response
+2.succefful response
+3.rdirectional response
+4client -error 
+  5.server error 
